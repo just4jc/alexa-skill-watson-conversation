@@ -14,7 +14,7 @@
   "dependencies": {
     "alexa-verifier": "0.3.6",
     "openwhisk": "^3.15.0",
-    "redis": "2.7.1",
+    "redis": "2.8.0",
     "request": "^2.87.0",
     "watson-developer-cloud": "^3.4.2"
   },
